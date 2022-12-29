@@ -1,2 +1,32 @@
 ﻿Đặc trưng,Mô tả
 ID,ID của vụ án
+CNTYFIPS,Mã Federal Information Processing Standards (FIPS) cho bang và hạt của cơ quan hành pháp
+Ori,Mã của cơ quan hành pháp
+State,Tên bang
+Agency,Tên cơ quan hành pháp
+Agentype,Phân loại cơ quan hành pháp
+Source,Nguồn thông tin
+Solved,Vụ án có được phá tại thời điểm thực hiện báo cáo hay không
+Year,Năm xảy ra vụ án
+StateName,Tên bang
+Month,Tháng xảy ra vụ án
+Incident,Thứ tự của vụ án trong tháng
+ActionType,Loại của báo cáo
+Homicide,Loại giết người
+Situation,Tình huống của vụ án (1 nạn nhân hoặc nhiều nạn nhân và 1 hung thủ hoặc nhiều hung thủ)
+VicAge,Tuổi của nạn nhân
+VicSex,Giới tính của nạn nhân
+VicRace,Chủng tộc của nạn nhân
+VicEthnic,Dân tộc của nạn nhân
+OffAge,Tuổi của hung thủ
+OffSex,Giới tính của hung thủ
+OffRace,Chủng tộc của hung thủ
+OffEthnic,Dân tộc của hung thủ
+Weapon,Hung khí gây án
+Relationship,Quan hệ giữa nạn nhân và hung thủ
+Circumstance,Hoàn cảnh gây án
+Subcircum,Hoàn cảnh mà nạn nhân được xem là 1 tội phạm hình sự
+VicCount,Số nạn nhân liên can (không kể nạn nhân trong bản báo cáo hiện tại)
+OffCount,Số hung thủ liên can (không kể hung thủ trong bản báo cáo hiện tại)
+FileDate,Ngày vụ án được báo cáo
+MSA,Mã Federal Information Processing Standards (FIPS) của Khu Đô Thị
